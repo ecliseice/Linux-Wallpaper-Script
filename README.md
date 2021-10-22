@@ -6,3 +6,6 @@ http://api.deckchair.com/v1/cameras
 http://api.deckchair.com/v1/viewer/camera/:id
 Вместо :id вписываем ID камеры, которые мы узнали из предыдущего пункта. Например, для Парижа ссылка будет выглядеть вот так:
 http://api.deckchair.com/v1/viewer/camera/5568862a7b28535025280c72
+
+
+https://github.com/Deckchair/DeckchairDocumentation
